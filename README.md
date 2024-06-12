@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola, soy Nicoll! 👋
 
-<!--
-**nicolaguirre1/nicolaguirre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy estudiante de desarrollo de software con conocimientos en JavaScript y Flutter. Actualmente, estoy en formación de tecnología en desarrollo de software para negocios digitales. Me apasiona aprender sobre el mundo tech y estar al día con las últimas tendencias y tecnologías.
 
-Here are some ideas to get you started:
+## 📫 Cómo contactarme
+- Email: [nicolaguirre761@gmail.com](mailto:nicolaguirre761@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+- Lenguajes de Programación: JavaScript, Dart (Flutter)
+- Herramientas y Tecnologías: Git, VS Code
+
+## 🌱 Actualmente aprendiendo
+- Desarrollo de aplicaciones móviles con Flutter
+- JavaScript avanzado y frameworks modernos
+
+## 💡 Intereses
+- Desarrollo web y móvil
+- Innovaciones en tecnología y software
+- Participación en comunidades de tecnología y hackathons
+
+---
+
+**Nicoll**
